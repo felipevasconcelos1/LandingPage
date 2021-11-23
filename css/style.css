@@ -1,0 +1,12 @@
+.card-deck{
+    margin: 40px;
+}
+.jumbotron{
+    background-image: url(/landingPage/img/bg-jumbotron.jpg)
+}
+.jumbotron h1{
+    color: honeydew;
+}
+.card-text{
+    font-size: medium;
+}
